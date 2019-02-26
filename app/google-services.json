@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "643682470058",
+    "firebase_url": "https://chatdemo-b47c9.firebaseio.com",
+    "project_id": "chatdemo-b47c9",
+    "storage_bucket": "chatdemo-b47c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643682470058:android:6f11006b42aa52ec",
+        "android_client_info": {
+          "package_name": "com.chat.shubham.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643682470058-e6n1lts6bkcuuasdtbv25om1838nque5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvuyr8gegcpC3y5M8Lh5P_n3a2aSNhUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
