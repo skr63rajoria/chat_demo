@@ -44,7 +44,8 @@ public class DataFirebase extends AppCompatActivity
         imageView = (ImageView)findViewById(R.id.imageView);
         download = (Button)findViewById(R.id.downloadBtn);
 
-        storageReference = storage.getReferenceFromUrl("gs://chatdemo-b47c9.appspot.com");
+
+        storageReference = storage.getReferenceFromUrl("<put your database path>");
         upld.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v)
